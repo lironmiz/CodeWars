@@ -1,7 +1,9 @@
 <h1 align="center"> 🪖 CodeWars 🪖 </h1>
-Designed to help people and save the exercises I solved in javascript and track my progress and learning in algorithms, data structures, and programming math puzzles and programming basic in java script🤩.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+
+Designed to help people and save the exercises I solved in javascript and track my progress and learning in algorithms, data structures, and programming math puzzles and programming basic in java script🤩.
+
 
 ![](https://img.shields.io/tokei/lines/github/lironmiz/codeWars?color=red&label=Lines%20of%20Code)
 
@@ -16,9 +18,6 @@ Designed to help people and save the exercises I solved in javascript and track 
 </p>
 
 <p><img src="https://www.codewars.com/users/lironmiz/badges/large" alt="Codewars Stats Card"></p>
-
-# Project Status 🕛
-Project is: Not Done
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
 
